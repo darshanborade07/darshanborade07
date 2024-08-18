@@ -11,7 +11,7 @@
 ✉ &nbsp;You can shoot me an email at darshanborade67@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/darshan-borade-99b619246) for more details about me. I'm open to feedback and suggestions!
 
- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br/>
 
 ### 🛠 &nbsp;Tech Stack
 
