@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Borade</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A dedicated software developer and enthusiastic learner, committed to continuous growth and innovation in the tech industry.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanborade07&label=Profile%20views&color=0e75b6&style=flat" alt="darshanborade07" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
